@@ -83,4 +83,4 @@ The demo below shows how the game operates using the LED Matrix, push button, an
 - Single press → Displays a random emoji.  
 - Double press → Measures sound intensity for 3 seconds, then shows an emoji based on the detected sound level.  
 
-<video src="https://github.com/Asayl01/Interactive_LED_Matrix_with_Auto_Control/issues/2#issue-3306876616" controls></video>
+<video src="https://private-user-images.githubusercontent.com/210694101/476314605-b5b09143-0f1c-4906-9263-9fd13f65f98b.MP4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3NzY3NTIsIm5iZiI6MTc1NDc3NjQ1MiwicGF0aCI6Ii8yMTA2OTQxMDEvNDc2MzE0NjA1LWI1YjA5MTQzLTBmMWMtNDkwNi05MjYzLTlmZDEzZjY1Zjk4Yi5NUDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwOVQyMTU0MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjdkNmM2ZmRmNTg2YzAzOGIzY2NlMDZjZWZiZDc5NzdhNjRjYjM0MzkzMGY4MjE2ZTE5Y2M5M2RlYjRkNGFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zMcAvRDgTBqH3yuPC6rl29IBljWQnVQG7Tek-roj4FY" controls></video>
