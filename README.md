@@ -33,3 +33,14 @@ In this project, we use a **MAX7219 4-in-1** module (32x8 pixels) for creating i
 #### Example Patterns
 Here are some example patterns that include digit, letters, and signs.
 ![p](p.jpg)  
+
+### 3. Wiring the LED Matrix to Arduino UNO
+| MAX7219 Pin | Arduino UNO Pin |
+|-------------|-----------------|
+| VCC         | 5V              |
+| GND         | GND             |
+| DIN         | D12             |
+| CS          | D10             |
+| CLK         | D11             |
+
+![Waring](Matrix-Waring.png)
