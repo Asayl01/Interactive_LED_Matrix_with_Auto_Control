@@ -75,3 +75,12 @@ KY-038 is a simple microphone module. In this project we use the **analog output
 |                          | Pin 2            | GND             |
 
 ![full-wiring](full-wiring.jpg)
+
+## Demo – How the Game Works
+The demo below shows how the game operates using the LED Matrix, push button, and sound sensor.  
+
+- Long press → Turns the matrix ON or OFF.  
+- Single press → Displays a random emoji.  
+- Double press → Measures sound intensity for 3 seconds, then shows an emoji based on the detected sound level.  
+
+[🎥 Watch Demo Video](demo-video.mp4)
