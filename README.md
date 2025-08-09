@@ -44,3 +44,20 @@ Here are some example patterns that include digit, letters, and signs.
 | CLK         | D11             |
 
 ![Waring](Matrix-Waring.png)
+
+
+### 4. Sound Sensor (KY-038)
+
+**What it is:**  
+KY-038 is a simple microphone module. In this project we use the **analog output (AO)** to measure sound intensity (0–1023).  
+> Note: The **DO** pin is digital (HIGH/LOW with an internal comparator). We **don’t** use it here.
+
+#### Wiring (KY-038 → Arduino UNO)
+| KY-038 Pin | Arduino Pin |
+|------------|-------------|
+| VCC        | 5V          |
+| GND        | GND         |
+| AO         | A0          |
+
+![KY-038 Wiring](mic-wiring.png)
+
