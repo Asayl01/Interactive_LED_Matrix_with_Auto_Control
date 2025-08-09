@@ -31,5 +31,5 @@ In this project, we use a **MAX7219 4-in-1** module (32x8 pixels) for creating i
 - Copy the generated hex values and paste them into your Arduino code as a byte array.
 
 #### Example Patterns
-Here are some example patterns that include shapes, letters, and signs to help you design your own matrix graphics.
+Here are some example patterns that include shapes, letters, and signs.
 ![p](p.jpg)  
