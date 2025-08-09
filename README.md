@@ -32,4 +32,4 @@ In this project, we use a **MAX7219 4-in-1** module (32x8 pixels) for creating i
 
 #### Example Patterns
 Here are some example patterns that include shapes, letters, and signs to help you design your own matrix graphics.
-![digit](Digit.jpg)  
+![P](P.jpg)  
