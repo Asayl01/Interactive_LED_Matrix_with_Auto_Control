@@ -16,7 +16,7 @@ You can turn the matrix ON or OFF with a long press, show a random emoji with a 
 An **LED Matrix** is a grid of LEDs arranged in rows and columns, allowing you to display text, numbers, symbols, and animations by controlling individual LEDs.  
 In this project, we use a **MAX7219 4-in-1** module (32x8 pixels) for creating interactive visual displays.
 
-![ledmatrix](ledxmatrix.png)
+![ledmatrix](ledmatrix.jpg)
 
 ###  1. Installing the LedControl Library
 1. Open **Arduino IDE**.  
