@@ -59,3 +59,19 @@ KY-038 is a simple microphone module. In this project we use the **analog output
 
 ![KY-038 Wiring](mic-wire.jpg)
 
+## Full Circuit Wiring 
+
+| Component                | Pin on Component | Arduino UNO Pin |
+|--------------------------|------------------|-----------------|
+| **MAX7219 LED Matrix**   | VCC              | 5V              |
+|                          | GND              | GND             |
+|                          | DIN              | D12             |
+|                          | CS               | D10             |
+|                          | CLK              | D11             |
+| **KY-038 Sound Sensor**  | VCC              | 5V              |
+|                          | GND              | GND             |
+|                          | AO               | A0              |
+| **Push Button**          | Pin 1            | D2              |
+|                          | Pin 2            | GND             |
+
+![full-wiring](full-wiring.jpg)
