@@ -83,4 +83,4 @@ The demo below shows how the game operates using the LED Matrix, push button, an
 - Single press → Displays a random emoji.  
 - Double press → Measures sound intensity for 3 seconds, then shows an emoji based on the detected sound level.  
 
-https://user-images.githubusercontent.com/12345678/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.mov
+https://github.com/Asayl01/Interactive_LED_Matrix_with_Auto_Control/issues/1#issue-3306836962
