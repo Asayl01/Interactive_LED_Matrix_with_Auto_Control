@@ -57,5 +57,5 @@ KY-038 is a simple microphone module. In this project we use the **analog output
 | GND        | GND         |
 | AO         | A0          |
 
-![KY-038 Wiring](mic-wiring.png)
+![KY-038 Wiring](mic-wire.jpg)
 
