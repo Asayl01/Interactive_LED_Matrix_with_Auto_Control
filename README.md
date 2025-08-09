@@ -46,9 +46,7 @@ Here are some example patterns that include digit, letters, and signs.
 ![Waring](Matrix-Waring.png)
 
 
-### 4. Sound Sensor (KY-038)
-
-**What it is:**  
+## What is a Sound Sensor?
 KY-038 is a simple microphone module. In this project we use the **analog output (AO)** to measure sound intensity (0–1023).  
 > Note: The **DO** pin is digital (HIGH/LOW with an internal comparator). We **don’t** use it here.
 
